@@ -1,0 +1,46 @@
+1. 1 tên trộm đột nhập vào 1 ngôi nhà, trong nhà có n món đồ vật, có
+lần lượt trọng lượng là Wi, cho biết tên trộm có thể vác được món đồ
+có trọng lượng tối đa là M, hãy cho biết cân nặng món đồ trong nhà mà
+tên trộm có thể mang đi được.
+EX: 
+input:
+n = 6
+20 15 70 46 39 12
+m = 30
+output: 20
+
+2. Cuối khóa học, thầy giáo có chuẩn bị 1 số món quà cho các bạn có số điểm
+top 3 cao nhất khóa học. Tuy nhiên, có 1 số bạn có điểm thi bằng nhau. Hãy
+tính giúp thầy xem cần chuẩn bị bao nhiêu phần quà để trao thưởng
+
+int dem=0;
+
+while (dem < 3);
+	cứ a[i] qua giá trị khác thì tăng đếm 
+	tìm i;
+
+EX:input: số điểm N học sinh trong lớp
+N = 10
+30 36 21 32 33 36 34 33 26 30
+
+36 36 34 33 33 32 30 30 26 21
+
+output: 5
+
+3. Xóa phần tử xuất hiện nhiều lần nhất trên dãy
+4. Nhập vào 2 dãy a, b. Viết chương trình ghép 2 dãy thành 1.
+ 	int [] b = input;
+	output(b);
+- Hàm ghép 2 dãy thành 1
+	public static int[] ghepDay(int[]a, int[]b){
+		int [] c = new int [a.length + b.length]; //tạo dãy a sao cho size bằng size dãy a cộng dãy b
+		int i=0;
+		for (int e:a){
+			c[i++]=e;
+		}
+		for (int e:b){
+			c[i++]=e;
+		}
+		return c;
+}
+5. Tương tự bài 4, nhưng xóa bớt các phần tử trùng nhau

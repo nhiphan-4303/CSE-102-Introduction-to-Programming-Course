@@ -1,0 +1,20 @@
+1.viết chương trình nhập vào 5 số nguyên dương, tìm số lớn nhất trong 5 số nguyên dương đó.
+int a,b,c,d,e;
+int max = a;
+if (b>max)
+	max=b;
+
+if c,d,e
+
+2.ví dụ array
+
+3.Viết hàm input 1 dãy:
+hàm này cho phép người dùng nhập vào số phần tử cửa dãy, và dữ liệu trong dãy. Sau khi nhập xong thì trả về 1 dãy đã có dữ liệu.
+
+Viết hàm output 1 dãy ra màn hình: 
+Hàm này nhận đầu vào là 1 dãy cần output để in dữ liệu ra màn hình. Sau khi in dữ liệu ra màn hình thì không trả kết quả gì về nơi gọi hàm.
+
+4. Nhập vào 1 dãy số nguyên dương và thực hiện các yêu cầu sau:
+	1. In ra các phần tử chẵn trong dãy
+	2. In ra các phần tử ở vị trí lẻ trong dãy
+	3. In ra các phần tử là SNT trong dãy

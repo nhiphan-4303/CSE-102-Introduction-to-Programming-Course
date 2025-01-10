@@ -1,0 +1,15 @@
+Nhập vào 1 dãy số nguyên dương và thực iện các yêu cầu sau:
+1. Tìm phần tử lớn thứ 2 trong dãy
+int max1=a[0];
+int max2=-1;
+
+xét các phần tử trong dãy
+	nếu a[i] lớn hơn max 1
+		cập nhật max 1, max 2
+	nếu a[i] không hơn max1, thì xét thử xem có lớn hơn max2 hay không, nếu có thì
+	cập nhật lại max2.
+
+2. Đếm xem trong dãy có bao nhiêu phần tử lớn hơn phần tử trung binh của dãy
+3. Nhập vào 1 số K, tìm phần tư lớn nhất trong dãy sao cho phần tử đó vẫn <=K
+4. Nhập vào 1 số K, tìm cặp phần tử có tổng lớn nhất và <=K.
+5. Nhập vào 1 số K, tìm cặp phần tử có tổng lớn nhất và <=K, và độ lệch về giá trị của 2 phần tử đó là nhỏ nhất.

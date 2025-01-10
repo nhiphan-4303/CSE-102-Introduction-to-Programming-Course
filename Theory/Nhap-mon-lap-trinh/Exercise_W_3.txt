@@ -1,0 +1,7 @@
+1. Nhập 1 số nguyên dương n, tính tổng các sổ từ 1 đến n.
+2. Nhập 1 số nguyên dương n, tính tổng các số chẵn từ 1 đến n.
+3  Nhập 1 số nguyên dương n, tính n!
+4. Tính S = 1/2 + 2/3 + 3/4 +...+ n/n+1;
+5. Tính S = 1/2 + 1/3 + 1/4 +...+ 1/n
+6. Tính s = 1/1! + 2/2! +...+ n/n!
+7. Chapter 4 

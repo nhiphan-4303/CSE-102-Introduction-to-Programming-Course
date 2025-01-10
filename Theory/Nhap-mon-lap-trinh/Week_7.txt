@@ -1,0 +1,33 @@
+Bài 9_Lab 
+Nhập vào 1 dãy số nguyên dương và thực hiện các yêu cầu sau:
+1. Viết hàm đếm số lần xuất hiện của X trong dãy
+
+- Hàm sẽ nhận đầu vào là 1 dãy và 1 số nguyên X cần đếm, phần thân hàm sẽ lần lượt duyệt qua các phần tử trong dãy, nếu có phần tử nào bằng
+với x thì ta sẽ tăng đếm
+
+-Kết thúc vòng lặp thì biến sẽ là số lần xuất hiện của X trong dãy, và ta sẽ return biến này về
+
+2. Viết hàm tìm phần tử xuất hiện nhiều lần nhất tong dãy 
+- giả sử phần tử đầu tiện trong dãy là phần tử thỏa điều kiện
+- duyệt từ phần tử thứ 2 đến hết dãy:
+	ở mỗi phần tử ta so sánh số lần xuất hiện với phần tử giả sử ban đầu, nếu số lần xuất hiện nhiều hơn thì ta cập nhật lại
+- đến hết dãy thì ta trả về giá trị của phần tử xuất hiện nhiều lần nhất trong đó.
+
+Bài 11_Lab
+Nhập vào 1 dãy số nguyên dương và thực hiện các yêu cầu sau:
+1. Viết hàm tìm SNT lớn nhất trong dãy
+-Viết hàm kiểm tra 1 số nguyên có là SNT không?
+- duyệt qua các phần tử trong dãy, và tìm SNT lớn nhất trong dãy
+
+*Bài tập về nhà:
+Nhập vào 1 dãy số nguyên dương và thực hiện các yêu cầu sau:
+1.Kiểm tra dãy đối xứng 
+2. Tìm phần tử lớn thứ 2 trong dãy
+
+Bai_1_LT
+Sắp xếp các số theo thứ tự tăng dần và giảm dần
+2. sắp xếp dãy theo thứ tự:
+2.1 Số chẵn đứng trước, số lẻ đứng sau
+2.2 Số chẵn đứng trước, sắp tăng dần,
+số lẻ đứng sau, sắp giảm dần
+

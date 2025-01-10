@@ -1,0 +1,8 @@
+1. nhập tên tuổi say hello tên tuổi.
+2. hàm tình chu vi hcn, hàm này nhận đầu vào là 2 canh of hcn, trả về chu vi hcn đó.
+3. hàm kiểm tra 1 số có là số hoàn hảo hay không, hàm này nhận đầu vào là 1 số nguyên dương n, sau khi kiểm tra thì trả kết quả về là, nếu đúng thì trả về true, ngược lại thì trả về false.
+4. viết hàm kiểm tra số nguyên tố.
+5. Nhập n, in ra n số nguyên tố đầu tiên.
+6. Print the Fibonacci. N entered by the user
+• f1= f0 = 1;
+• fn = fn-1 + fn-2 ; (n>1)

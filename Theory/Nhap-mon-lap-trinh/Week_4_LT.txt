@@ -1,0 +1,10 @@
+Bài 1: Lập bảng cửu chương
+Bài 4: cách 2, in các số hoàn hảo từ 1 đến 1000
+xét các số i từ 1 đến 1000
+tính tổng các ước của số i:
+	reset biến tổng = 0
+	xét các số từ 1 tới i/2
+		nếu có số nào là ước của i thì:
+			cộng dồn vào biến tổng
+nếu tổng này bằng với i thì:
+in ra màn hình i
